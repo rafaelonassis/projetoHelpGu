@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "version": "1.5",
+    "name": "Afazeres",
+    "description": "Uma extensão para organizar suas tarefas diárias.",
+    "action": {
+        "default_popup": "TodoList.html"
+    },
+    "icons": {
+        "128": "task.png"
+      },
+    
+      "permissions": [
+        "tabs"
+      ]
+
+      
+      
+}
